@@ -2,7 +2,7 @@
 
 Personal academic portfolio of Md. Imran Hossain Shad, Graduate Research Assistant in Nanomaterials and Ceramic Engineering at Bangladesh University of Engineering and Technology (BUET).
 
-Live site: https://dawod56.github.io
+Live site: https://imran-shad.github.io
 
 ## Structure
 
@@ -18,10 +18,19 @@ Live site: https://dawod56.github.io
 └── README.md
 ```
 
+Images the page expects in `assets/images/`:
+
+| File                | Used for                            |
+| ------------------- | ----------------------------------- |
+| `imran.jpg`         | Portrait in the header, link previews |
+| `lab-fumehood.jpg`  | Header background, Research section |
+| `lab-autoclave.jpg` | Research section                    |
+| `favicon.svg`       | Browser tab icon                    |
+
 ## Updating
 
 - **Content:** edit `index.html`.
-- **Styles:** edit `assets/css/style.css`.
+- **Styles:** edit `assets/css/style.css`. Colors and widths are variables at the top of the file.
 - **Images:** add to `assets/images/` using lowercase, hyphenated names (e.g. `award-icfs-2026.jpg`).
 - **CV:** replace `assets/docs/md-imran-hossain-shad-cv.pdf`, keeping the same file name.
 
