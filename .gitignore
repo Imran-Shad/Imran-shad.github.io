@@ -1,2 +1,8 @@
+# Editor / IDE project files
 .idea/
-website_naeem.pptx
+.vscode/
+
+# Local archives and OS clutter
+*.zip
+.DS_Store
+Thumbs.db
